@@ -10,7 +10,7 @@ The lab reinforces both programming skills and fundamental cybersecurity knowled
 <h2>Enviroments and Utilities</h2>
 
 <b>Enviroment:</b>
-  - <b>Operating System:</b> Any OS with Python 3.x installed (Windows, Linux, or macOS).
+  - <b>Operating System:</b> Any OS with Python 3.13 installed (Windows, Linux, or macOS).
   - <b>Execution Setup:</b> Local computer or a virtual machine (for safe testing).
   - <b>Target Systems:</b> A safe, external test server (e.g., scanme.nmap.org, provided by the Nmap project).
 
